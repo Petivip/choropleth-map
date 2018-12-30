@@ -1,0 +1,24 @@
+
+#title{
+  text-align: center;
+  color: blue;
+}
+.cont{
+  margin-top: 80px;
+  margin-left: 50px;
+  align-items: center;
+}
+.states{
+  fill: none;
+  stroke: #fff;
+}
+.tooltip {
+  position: absolute;
+  padding: 10px;                
+  font: 12px Arial;        
+  background: rgba(255, 255, 204, 0.9);
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+  border: 0px;        
+  border-radius: 2px;            
+  pointer-events: none;            
+}
